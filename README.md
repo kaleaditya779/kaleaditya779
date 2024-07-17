@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Aditya 👩🏻‍💻
+I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 
-<!--
-**kaleaditya779/kaleaditya779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at International Institute of Information Technology, Pune.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: adityapk2255@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Tools and languages: </h3>
+
+![My Skills](https://skillicons.dev/icons?i=c++,py,javascript,php,android,html)
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleaditya779&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; flex-direction: row;">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=kaleaditya779&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaleaditya779&theme=gotham&hide_border=false" />
+
+</div>
